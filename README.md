@@ -85,7 +85,4 @@ SpringAIDemo/
 - [Ollama](https://ollama.ai/)
 
 ## Contact
-
-For any questions or feedback, please check out:
-- YouTube Channel: [Telusko](https://youtube.com/Telusko)
-- GitHub: [navinreddy20/SpringAIwithModels](https://github.com/navinreddy20/SpringAIwithModels)
+sujeetpramanik7484@gmail.com
